@@ -6,8 +6,8 @@ print("Hello world")
 2 + 2
 
 a = 5
-a=4
 
+a = 4
 
 
 b = 3

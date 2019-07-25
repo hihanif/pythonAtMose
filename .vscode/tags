@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+a	../app.py	/^a = 5$/;"	kind:variable	line:8
+age	../app.py	/^age = "Python"$/;"	kind:variable	line:30
+age	../app.py	/^age = 20$/;"	kind:variable	line:29
+app.py	../app.py	1;"	kind:file	line:1
+b	../app.py	/^b = 3$/;"	kind:variable	line:11
+is_published	../app.py	/^is_published = False$/;"	kind:variable	line:15
+rating	../app.py	/^rating = 4.99$/;"	kind:variable	line:14
+students_count	../app.py	/^students_count = 1000$/;"	kind:variable	line:13
