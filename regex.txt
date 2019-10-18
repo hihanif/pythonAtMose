@@ -1,0 +1,27 @@
+pattern = ''
+
+abcd 
+ABCD
+
+1234
+
+123.345.6666
+234.456.1312
+
+123_345_3456
+
+cat
+mat
+bat
+pat
+
+Mr. Jake
+Mr Joshua
+Mrs Nisha
+Mr T
+Ms Amina
+
+
+hihanifm@gmail.com
+abcd.efgh@g.com
+a-b-c@a-b.com
