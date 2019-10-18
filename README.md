@@ -1,1 +1,1 @@
-# pythonAtMose
+# python samples
